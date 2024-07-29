@@ -1,3 +1,9 @@
-#Display the output 
+age = 18
+# age = 19
 
-print("new python file ")
+if age > 18:
+    print("you can enter" )
+else:
+    print("go see Meat Loaf" )
+    
+print("move on")
